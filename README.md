@@ -1,4 +1,4 @@
-# simpleimage
+# Simpleimage
 Simple image class resize picture in PHP
 
 # How to use PHP Class
